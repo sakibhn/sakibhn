@@ -38,17 +38,6 @@ Dhaka, Bangladesh
 
 ---
 
-## 📂 Active Projects
-
-```bash
-[1] Zakat Management System
-    └── Full-stack donation + distribution platform
-
-[2] Java Multi-Client Chat Server
-    └── Thread-based communication system
-```
-
----
 
 ## 📊 System Stats
 
