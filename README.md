@@ -1,6 +1,7 @@
 <!-- Hacker Style Header -->
 
 <h1 align="center">Hi 👋, I'm Sakib</h1>
+<h3 align="center">I love art 🎨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing...;Access+Granted+✔;CSE+Student+%7C+Dhaka+University;Full+Stack+Developer;AI+%7C+IoT+Security+Explorer&center=true&width=500&height=45&color=00FF00">
@@ -62,8 +63,8 @@ PHP Backend | ARM Assembly | Advanced Development
 ## 📊 System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibhn&show_icons=true&theme=chartreuse-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhn&theme=chartreuse-dark">
 </p>
 
 ---
@@ -71,7 +72,7 @@ PHP Backend | ARM Assembly | Advanced Development
 ## 🐍 Activity Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/sakibhn/sakibhn/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
