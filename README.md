@@ -16,16 +16,6 @@ Sakib Hossain
 > location
 Dhaka, Bangladesh
 
-> role
-CSE Student @ Dhaka University
-
-> interests
-AI | Cyber Security | IoT | System Programming
-
-> currently_learning
-PHP Backend | ARM Assembly | Advanced Development
-```
-
 ---
 
 ## 🧰 Tech Arsenal
@@ -65,14 +55,6 @@ PHP Backend | ARM Assembly | Advanced Development
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakibhn&show_icons=true&theme=chartreuse-dark">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhn&theme=chartreuse-dark">
-</p>
-
----
-
-## 🐍 Activity Tracker
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sakibhn/sakibhn/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
