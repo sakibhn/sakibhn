@@ -38,30 +38,6 @@ Dhaka, Bangladesh
 
 ---
 
-
-## 📊 System Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibhn&show_icons=true&theme=chartreuse-dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhn&theme=chartreuse-dark">
-</p>
-
----
-
-## 🔐 Current Mission
-
-```bash
-> status
-Building real-world impactful systems
-
-> next_targets
-- Master Backend Engineering
-- Explore IoT Security + Reinforcement Learning
-- Contribute to Open Source
-```
-
----
-
 ## 🌐 Connect
 
 <p>
